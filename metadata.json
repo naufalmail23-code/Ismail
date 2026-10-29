@@ -1,0 +1,6 @@
+{
+  "name": "Ready to Sell - Informa Alam Sutera",
+  "description": "Daily Checklist Tracker & Performance Dashboard for Sales Associates at Informa Alam Sutera - 7 Step Selling Implementation",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
